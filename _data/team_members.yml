@@ -51,6 +51,14 @@
   education1: Video understanding
   education2: Temporal and spatial localization of text in images/videos
 
+- name: Tzu-Yun (Ariel) Shann 
+  photo: ariel.jpg
+  info: Masters Student
+  email: shannari@cs.ubc.ca
+  webpage: https://lasirenashann.github.io
+  number_educ: 1
+  education1: Reinforcement Learning and its applications in Computer Vision/Robotics
+
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
