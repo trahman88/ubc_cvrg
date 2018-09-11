@@ -25,6 +25,15 @@
   education1: Video understanding
   education2: Deep learning
 
+- name: Siddhesh Khandelwal
+  photo: siddhesh.jpg
+  info: Masters Student
+  email: skhandel@cs.ubc.ca 
+  webpage: http://siddheshk.github.io/
+  number_educ: 2
+  education1: Attention Models
+  education2: Visual Dialog/QA
+
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
