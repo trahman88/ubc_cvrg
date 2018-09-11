@@ -34,6 +34,14 @@
   education1: Attention Models
   education2: Visual Dialog/QA
 
+- name: Bicheng Xu
+  photo: bicheng.png
+  info: Masters Student
+  email: bichengx@cs.ubc.ca
+  webpage: http://www.cs.ubc.ca/~bichengx/
+  number_educ: 2
+  education1: Intersection of vision and language
+
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
