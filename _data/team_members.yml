@@ -35,13 +35,13 @@
   education2: Visual Dialog/QA
 
 - name: Mohit Bajaj 
-   photo: mohit.jpg
-   info: Masters Student
-   email: mbajaj01@cs.ubc.ca
-   webpage: https://mbajaj.wixsite.com/profile/
-   number_educ: 2
-   education1: Video understanding
-   education2: Temporal Spatial localization of phrases in images/videos
+  photo: mohit.jpg
+  info: Masters Student
+  email: mbajaj01@cs.ubc.ca
+  webpage: https://mbajaj.wixsite.com/profile/
+  number_educ: 2
+  education1: Video understanding
+  education2: Temporal Spatial localization of phrases in images/videos
 
 - name: "This could be you !"
   photo: rock.jpg
