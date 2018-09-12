@@ -58,6 +58,16 @@
   webpage: https://lasirenashann.github.io
   number_educ: 1
   education1: Reinforcement Learning and its applications in Computer Vision/Robotics
+  
+- name: Polina Zablotskaia
+  photo: polina.jpg
+  info: Masters Student
+  email: pzablots@cs.ubc.ca
+  webpage: https://zpolina.github.io
+  number_educ: 2
+  education1: Deep Learning
+  education2: Image and Video Generation
+  
 
 - name: "This could be you !"
   photo: rock.jpg
