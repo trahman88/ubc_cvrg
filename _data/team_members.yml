@@ -79,6 +79,16 @@
   education2: Image and Video Generation
   
 
+- name: Setareh Cohan
+  photo: setareh.jpg
+  info: Masters Student
+  email: setarehc@cs.ubc.ca
+  webpage: https://cs.ubc.ca/~setarehc
+  number_educ: 2
+  education1: Machine Learning
+  education2: Computer Vision
+  
+
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
