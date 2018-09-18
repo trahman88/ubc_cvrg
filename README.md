@@ -5,11 +5,22 @@ This github project is the development version of the webpage of Computer Vision
 ## FAQs
 ### Adding a new team member
 - Add yourself in the **team XML** file [link](https://github.com/gursimar/ubc_cvrg/blob/gh-pages/_data/team_members.yml) and submit the pull request.
-- Add your headshot in the **teampic** folder [link](https://github.com/gursimar/ubc_cvrg/tree/gh-pages/images/teampic). NOte that you may not be able to upload your picture directly. So you need to fork the repo, upload your picture and then submit a pull request.
+- Add your headshot in the **teampic** folder [link](https://github.com/gursimar/ubc_cvrg/tree/gh-pages/images/teampic). Note that you may not be able to upload your picture directly. So you need to fork the repo, upload and then submit a pull request.
 
 ### Adding a new publication
 - Add publication data in the **publication XML** file [link](https://github.com/gursimar/ubc_cvrg/blob/gh-pages/_data/publist.yml) and submit the pull request.
+- Optionally, you can add a “1” in the highlight field to feature it more prominently.
+- Optionally add a teaser/ poster in the **publications pic** folder [link](https://github.com/gursimar/ubc_cvrg/tree/gh-pages/images/pubpic). Note that you may not be able to upload a picture directly. So you need to fork the repo, upload and then submit a pull request.
 
+### Adding a new news
+- Add the news item in the news XML file [link]().
+- Optionally, highlight the news item using (red, “news1”) or (blue, “news1”).
+
+## Setting up the project locally
+- Install bundler and Jekyll [link](https://jekyllrb.com/).
+- Git pull the source code
+- `$bundle install`
+- `$bundle exec jekyll serve`
 
 ## Credits
 Copyright UBC Vision Research Group. Code released under the MIT License.  
