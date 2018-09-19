@@ -22,6 +22,11 @@ This github project is the development version of the webpage of Computer Vision
 - `$bundle install`
 - `$bundle exec jekyll serve`
 
+## Editing the website
+- Change information in the footer [link](https://github.com/gursimar/ubc_cvrg/blob/gh-pages/_includes/footer.html).
+- Add a new option in the main menu [link](https://github.com/gursimar/ubc_cvrg/blob/gh-pages/_includes/header.html)
+- Edit content in various pages [link](https://github.com/gursimar/ubc_cvrg/tree/gh-pages/_pages)
+
 ## Credits
 Copyright UBC Vision Research Group. Code released under the MIT License.  
 Originally forked from the Allan Lab Website.
