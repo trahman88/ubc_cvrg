@@ -41,3 +41,6 @@ kramdown:
   enable_coderay: false
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
 
+# Simar hack to work on vision.cs.ubc.ca server https://stackoverflow.com/questions/39057405/unable-to-build-a-jekyll-site-invalid-date
+exclude: vendor
+
