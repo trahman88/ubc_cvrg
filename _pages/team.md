@@ -1,14 +1,12 @@
 ---
-title: "Allan Lab - Team"
+title: "UBC Computer Vision Lab - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "UBC Computer Vision Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
 
 # Group Members
-
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
@@ -80,49 +78,14 @@ permalink: /team/
     <th>Phd Students</th>
   </tr>
   <tr>
-    <td>Nikolaos Iliopoulos, Spring 2016</td>
-    <td>Bert Visscher, Fall 2017</td>
-    <td>Vishnu Saj, Spring 2017</td>
-  </tr>
-  <tr>
-    <td>Vitaly Fedoseev, all of 2016</td>
-    <td>Ahmad Jamalzada, Fall 2017</td>
-    <td>Joey Braspenning, Spring 2017</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Tjerk Benschop, Summer 2017</td>
-    <td>Margot Leemker, Spring 2017</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Oliver Ostojic, Spring 2016</td>
-    <td>Sietske Lensen, Spring 2017</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Farshaad Hoeseni, Fall 2015</td>
-    <td>Alexander Vanstone, Spring 2016</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td>Tjerk Benschop, Spring 2016</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td>Arjo Andringa, Spring 2016</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td>Daniëlle van Klink, Spring 2016</td>
+    <td>A, Spring 2016</td>
+    <td>B, Fall 2017</td>
+    <td>C, Spring 2017</td>
   </tr>
 </table>
 
 ## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
+<a href="mailto:lci-admin@cs.ubc.ca">Kath Imhiran</a> is helping us (and LCI) with administration.
 
 
 

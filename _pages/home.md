@@ -1,7 +1,7 @@
 ---
 title: "UBC Computer Vision Lab - Home"
 layout: homelay
-excerpt: "Computer Vision Lab at University of British Columbia."
+excerpt: "UBC Computer Vision Lab: Home."
 sitemap: false
 permalink: /
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Pictures"
+title: "UBC Computer Vision Lab - Pictures"
 layout: piclay
-excerpt: "Allan Lab -- Pictures"
+excerpt: "UBC Computer Vision Lab -- Pictures"
 permalink: /pictures/
 ---
 

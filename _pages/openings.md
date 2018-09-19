@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "UBC Computer Vision Lab - Vacancies"
 layout: textlay
-excerpt: "Openings"
+excerpt: "UBC Computer Vision Lab: Openings"
 sitemap: false
 permalink: /vacancies
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Research"
+title: "UBC Computer Vision Lab - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "UBC Computer Vision Lab -- Research"
 sitemap: false
 permalink: /research/
 ---

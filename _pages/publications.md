@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "UBC Computer Vision Lab - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "UBC Computer Vision Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
