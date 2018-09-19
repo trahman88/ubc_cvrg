@@ -27,6 +27,13 @@ This github project is the development version of the webpage of Computer Vision
 - Add a new option in the main menu [link](https://github.com/gursimar/ubc_cvrg/blob/gh-pages/_includes/header.html)
 - Edit content in various pages [link](https://github.com/gursimar/ubc_cvrg/tree/gh-pages/_pages)
 
+## Todo list
+- [] Get full list of publications
+- [] Get full list of team members
+- [] Add the list of old students and visitors in the lab
+- [] Add a talks page (cvrg and visitors).
+
+
 ## Credits
 Copyright UBC Vision Research Group. Code released under the MIT License.  
 Originally forked from the Allan Lab Website.
